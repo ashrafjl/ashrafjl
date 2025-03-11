@@ -62,7 +62,7 @@ A web-based character evaluation platform where users can go through a self-asse
 The LPL Dashboard serves as an administrative interface for monitoring and managing the loan application journey.
 **Tech Stack:** React, NextJs, Tailwind CSS
 
-![View Project](https://github.com/ashrafjl/dashboard)
+[View Project](https://github.com/ashrafjl/dashboard)
 
 ```javascript
 // The code that drives success...
