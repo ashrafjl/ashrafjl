@@ -37,32 +37,31 @@ With **4+ years** of specialized experience in modern web technologies, I bring 
 Looking for a developer who can bring your project to life? I'm open to freelance opportunities, collaborations, and interesting projects!
 
 [![Email](https://img.shields.io/badge/Email-ashrafjl2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrafjl2000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrafjl/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashraflucky99)
 
 ## ✨ Portfolio Highlights
 
 ### Project 1
-![Project 1](https://via.placeholder.com/500x300)
-**E-Commerce Platform**
+![entelechy](https://raw.githubusercontent.com/ashrafjl/ashrafjl/refs/heads/main/entelechy.webp)
+**Entelchy**
 
-A fully responsive e-commerce platform built with Next.js, React, and MongoDB. Features include user authentication, product filtering, cart functionality, and secure payment processing.
+A web-based character evaluation platform where users can go through a self-assessment journey to evaluate and reflect on their personal qualities
 
-**Tech Stack:** Next.js, React, MongoDB, Tailwind CSS
+**Tech Stack:** Next.js, React, Tailwind CSS
 
-[View Project](https://github.com/yourusername/project1)
+[View Project](https://my.entelechy.academy/signup)
 
 ---
 
 ### Project 2
-![Project 2](https://via.placeholder.com/500x300)
+![Project 2]()
 **Real-time Dashboard**
 
-A real-time analytics dashboard for monitoring business metrics. Built with React, Express, and Socket.IO for live updates.
+The LPL Dashboard serves as an administrative interface for monitoring and managing the loan application journey.
+**Tech Stack:** React, NextJs, Tailwind CSS
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO
-
-[View Project](https://github.com/yourusername/project2)
+[View Project](https://raw.githubusercontent.com/ashrafjl/ashrafjl/refs/heads/main/dashboard.jpg)
 
 ```javascript
 // The code that drives success...
@@ -79,5 +78,5 @@ console.log(yourProject); // Prints: A high-performing, scalable solution
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?ashrafjl=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
