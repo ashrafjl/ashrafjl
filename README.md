@@ -56,6 +56,7 @@ A web-based character evaluation platform where users can go through a self-asse
 
 ### Project 2
 ![Project 2](https://raw.githubusercontent.com/ashrafjl/ashrafjl/refs/heads/main/dashboard.jpg)
+
 **Real-time Dashboard**
 
 The LPL Dashboard serves as an administrative interface for monitoring and managing the loan application journey.
